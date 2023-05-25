@@ -1,6 +1,7 @@
 # Taller02-Git-Ramas
 # Lider 
 Foto de evidencia:
+[![Captura-de-pantalla-2023-05-24-a-la-s-22-03-19.png](https://i.postimg.cc/HnQYW4fs/Captura-de-pantalla-2023-05-24-a-la-s-22-03-19.png)](https://postimg.cc/4HxkBtfr)
 
 # Integrante 1
 Foto de evidencia:
